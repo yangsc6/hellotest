@@ -1,9 +1,6 @@
 www.visa.cn:443#JP VISA1
 www.visa.cn:8443#JP VISA2
-palera.in:443#US PA
-fbi.gov:443#US FB
-www.wto.org:443#US WT
-miki.ns.cloudflare.com:443#US CF
+
 vless.keepfuck.me:443#HK FK
 38.47.120.32:20001#HK 00
 36.50.90.241:35951#HK 01
@@ -43,6 +40,11 @@ vless.keepfuck.me:443#HK FK
 104.17.104.133:443#HK 35
 104.17.179.186:443#HK 36
 104.17.116.75:443#HK 37
+
+palera.in:443#US PA
+fbi.gov:443#US FB
+www.wto.org:443#US WT
+miki.ns.cloudflare.com:443#US CF
 
 210.61.97.241:81#TW 01
 220.135.202.250:81#TW 02
