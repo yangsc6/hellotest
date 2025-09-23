@@ -1,3 +1,12 @@
+www.visa.cn:8443#CN
+fbi.gov:443#US
+miki.ns.cloudflare.com:443#US
+fff.cf.090227.xyz:443#US
+104.20.28.41:2096#US
+38.47.120.32:20001#HK
+palera.in:443#IN
+www.wto.org:443#CH
+cf.877774.xyz:443#US
 www.visa.cn:443#JP VISA
 vless.keepfuck.me:443#HK 00
 36.50.90.241:35951#HK 01
