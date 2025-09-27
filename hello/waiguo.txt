@@ -1,0 +1,11 @@
+mf.wjnba.ggff.net:443#自己cf - 原生地址-443-WS-TLS
+mf.wjnba.ggff.net:2053#自己cf - 原生地址-2053-WS-TLS
+mf.wjnba.ggff.net:2083#自己cf - 原生地址-2083-WS-TLS
+mf.wjnba.ggff.net:2087#自己cf - 原生地址-2087-WS-TLS
+mf.wjnba.ggff.net:2096#自己cf - 原生地址-2096-WS-TLS
+mf.wjnba.ggff.net:8443#自己cf - 原生地址-8443-WS-TLS
+mf.wjnba.ggff.net:80#自己cf - 原生地址-80-WS
+mf.wjnba.ggff.net:8080#自己cf - 原生地址-8080-WS
+mf.wjnba.ggff.net:8880#自己cf - 原生地址-8880-WS
+mf.wjnba.ggff.net:2052#自己cf - 原生地址-2052-WS
+mf.wjnba.ggff.net:2082#自己cf - 原生地址-2082-WS
