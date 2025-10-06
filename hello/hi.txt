@@ -107,7 +107,7 @@ miki.ns.cloudflare.com:443#US CF
 162.159.153.220:443#JP 14
 162.159.137.223:443#JP 15
 162.159.134.100:443#JP 16
-
+www.shopify.com#shopify官方优选
 shopify.com
 time.is
 icook.hk
